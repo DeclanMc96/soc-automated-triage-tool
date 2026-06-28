@@ -151,4 +151,4 @@ This tool is intended for defensive security and educational purposes only. Ensu
 
 **Declan McGrath-Hughes**  
 Built to automate IP reputation lookups during SOC triage workflows.  
-[LinkedIn] www.linkedin.com/in/declan-mcgrath-hughes-18a05a2b5 | [GitHub][(https://github.com/your-username)] https://github.com/DeclanMc96
+[LinkedIn] www.linkedin.com/in/declan-mcgrath-hughes-18a05a2b5 | [GitHub] https://github.com/DeclanMc96
