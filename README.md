@@ -147,6 +147,8 @@ This tool is intended for defensive security and educational purposes only. Ensu
 ---
 
 ## Author 
-**Declan McGrath-Hughes** 
-BSc Cyber Security (First Class Honours) 2026 
-Built to automate IP reputation lookups during SOC triage workflows.
+## Author 
+
+**Declan McGrath-Hughes**  
+Built to automate IP reputation lookups during SOC triage workflows.  
+[LinkedIn] www.linkedin.com/in/declan-mcgrath-hughes-18a05a2b5 | [GitHub][(https://github.com/your-username)] https://github.com/DeclanMc96
